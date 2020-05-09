@@ -1,0 +1,6 @@
+﻿http://localhost/api.pubs.isscjrmp/analysis/pubs/GetDataPieByDimension/[DIM LIBRO].[NOMBRE LIBRO]/ASC/
+
+body
+["Emotional Security: A New Algorithm","Life Without Fear"]
+
+

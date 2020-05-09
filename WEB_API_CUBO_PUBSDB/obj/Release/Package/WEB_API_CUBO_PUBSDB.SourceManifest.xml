@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\ISSCJRMP\Documents\ISSC811\Peimbert\API_REST_OLAP_CUBE_PUBSDB\WEB_API_CUBO_PUBSDB\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\ISSCJRMP\Documents\ISSC811\Peimbert\API_REST_OLAP_CUBE_PUBSDB\WEB_API_CUBO_PUBSDB\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\ISSCJRMP\Documents\ISSC811\Peimbert\API_REST_OLAP_CUBE_PUBSDB\WEB_API_CUBO_PUBSDB\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="cubopubs-Web.config Connection String" description="cubopubs Connection String used in web.config by the application to access the database." defaultValue="Datasource=localhost; Catalog=CuboOLAP_EPUBSDB" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ISSCJRMP\\Documents\\ISSC811\\Peimbert\\API_REST_OLAP_CUBE_PUBSDB\\WEB_API_CUBO_PUBSDB\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='cubopubs']/@connectionString" />
+  </parameter>
+</parameters>
